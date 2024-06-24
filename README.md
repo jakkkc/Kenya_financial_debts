@@ -1,12 +1,7 @@
 # Kenya Financial Debts Analysis
+![Kenyan Flag](img/Kenyan%20flag.png)
 
 This project contains two Jupyter Notebooks analyzing Kenya's financial debts. The notebooks include data visualization and analysis on the country's debt situation over different time periods.
-
-## Notebooks
-
-### 1. Kenya Financial Debts
-This notebook provides a comprehensive analysis of Kenya's financial debts. It includes various data visualizations to help understand the debt structure and trends over time.
-
 
 
 ## Data Summary
@@ -79,13 +74,13 @@ The comparison chart highlights the following points:
 The continuous rise in debt highlights the importance of careful debt management. Understanding these trends helps in making informed decisions for Kenya's financial future.
 
 ## Lead
-Munene Jackson Mwaniki
+ [Munene Jackson Mwaniki](https://github.com/jakkkc)
 
 ## Analytics Team
-Kuria, and team
+ [Kuria](https://github.com/ElevnthKuria), and team
 
 ## Documentation Team
-Maxwell, Esther Njuguna
+Maxwell,  [Esther Njuguna](https://github.com/EstherNjuguna), [Wanjiru](https://github.com/shinyarah)
 
 ## Contact
 Email: jacmwaniki@gmail.com
