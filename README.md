@@ -10,6 +10,16 @@ This notebook provides a comprehensive analysis of Kenya's financial debts. It i
 ### 2. YEAR BY month
 This notebook focuses on analyzing the total debt per month across different years. It provides a detailed breakdown of debt accumulation over time.
 
+
+## Data Summary
+
+The data analyzed in these notebooks includes:
+
+- **Total Debt**: Analysis of the overall debt levels of Kenya.
+- **Debt by Category**: Breakdown of debt into various categories such as domestic debt, foreign debt, etc.
+- **Debt Trends**: Trends in debt accumulation over different time periods, highlighting significant increases or decreases.
+- **Debt Distribution**: Visualizations showing how debt is distributed across different sectors or time periods.
+
 ## Getting Started
 
 To get started with the analysis, you can open the provided Jupyter Notebooks using Jupyter Notebook or JupyterLab. Follow these steps:
